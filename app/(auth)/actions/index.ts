@@ -29,8 +29,6 @@ export async function signIn(_prevState: any, formData: FormData) {
 
   const result = signInSchema.safeParse(Object.fromEntries(formData));
 
-  console.log({ formData });
-
   if (!result.success) {
     return {
       error: result.error.flatten().fieldErrors,

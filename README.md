@@ -19,7 +19,8 @@ List of dependencies used in this project:
 
 ## Diagram Scheme
 
-![Diagram Scheme]()
+![Nextjs Basic Auth Architecture](https://github.com/user-attachments/assets/971627f7-71e0-44e1-8a10-b02406c8c3d8)
+
 
 ## Installation
 
